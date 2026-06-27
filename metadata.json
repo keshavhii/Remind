@@ -1,0 +1,6 @@
+{
+  "name": "remind with AI",
+  "description": "AI-powered productivity companion that proactively assists in planning, prioritizing, and completing tasks with an immersive Bento Grid layout, calendar integration, scratchpad extraction, and cross-platform sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
